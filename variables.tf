@@ -38,5 +38,5 @@ variable "node_size" {
 
 variable "kubernetes_version" {
   description = "Version of Kubernetes to use in the AKS cluster."
-  default     = "1.21.2"
+  default     = "1.22"
 }
